@@ -22,5 +22,5 @@ TunisiaFlicks is a free platform that allows users to watch movies and TV shows 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tunisiaflicks.git
+   git clone https://github.com/maghraoui3/tunisiaflicks.git
    cd tunisiaflicks
