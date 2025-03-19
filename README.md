@@ -317,12 +317,6 @@ NEXTAUTH_URL=your_app_url
     ``
 ----------
 
-## 📄 License
-
-This project is licensed under the  **MIT License**. See the  [LICENSE](https://license/)  file for details.
-
-----------
-
 ## 🙏 Acknowledgments
 
 -   **TMDB API**  for providing movie and TV show data.
