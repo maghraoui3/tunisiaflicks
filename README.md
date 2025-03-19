@@ -91,12 +91,13 @@ graph TD
 ## 🗂️ Key Components
 
 ### 1.  **Layout Structure**
-
+```plaintext
 // Root Layout Components
 - Navbar
 - Sidebar
 - SessionProvider
 - Main Content Area
+```
 
 ### 2.  **Data Models**
 
